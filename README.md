@@ -20,7 +20,7 @@ On Windows:
    
    -- check with google to search for more docker commands
 
-# Default port
+# Default port & access
 ## mysql 5.7
 > - host: localhost
 > - port: 3306
