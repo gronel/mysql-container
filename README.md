@@ -34,6 +34,6 @@ On Windows:
 - password: "set to env file"
 
 ## Adminer Access
--- http://localhost:8082
--- mysql 8.0.2 access server : mysql-dev
--- mysql 5.7 access server :  mysql-legacy
+- http://localhost:8082
+- mysql 8.0.2 access server : mysql-dev
+- mysql 5.7 access server :  mysql-legacy
