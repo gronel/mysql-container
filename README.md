@@ -19,3 +19,16 @@ On Windows:
      - docker-compose -p {projectname} ps (Check the project status or state)
    
    -- check with google to search for more docker commands
+
+# Default port
+ mysql 5.7
+ host: localhost
+ port: 3306
+ 
+ mysql 8.0.2
+ host:localhost
+ port: 3308
+ 
+ # Default Access
+ username: root
+ password: <set to env file>
